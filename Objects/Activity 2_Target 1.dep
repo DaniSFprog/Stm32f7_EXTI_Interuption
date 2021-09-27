@@ -1,0 +1,25 @@
+Dependencies for Project 'Activity 2', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.cpp)(0x61511179)(--cpp -c --cpu Cortex-M7.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-I"C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include"-D__UVISION_VERSION="535" -D_RTE_ -DSTM32F746xx -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x6025DA44)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f746xx.h)(0x5F19E21C)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm7.h)(0x60D49FB2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025DA4E)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cachel1_armv7.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h)(0x5F19E21C)
+F (RTE\Device\STM32F746ZGTx\startup_stm32f746xx.s)(0x5F19E21C)(--cpu Cortex-M7.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-I"C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include"--pd "__UVISION_VERSION SETA 535" --pd "_RTE_ SETA 1" --pd "STM32F746xx SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32f746xx.lst --xref -o .\objects\startup_stm32f746xx.o --depend .\objects\startup_stm32f746xx.d)
+F (RTE\Device\STM32F746ZGTx\system_stm32f7xx.c)(0x5F19E21C)(-c --cpu Cortex-M7.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-I"C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include"-I"C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include"-D__UVISION_VERSION="535" -D_RTE_ -DSTM32F746xx -D_RTE_-o .\objects\system_stm32f7xx.o --omf_browse .\objects\system_stm32f7xx.crf --depend .\objects\system_stm32f7xx.d)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h)(0x5F19E21C)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f746xx.h)(0x5F19E21C)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm7.h)(0x60D49FB2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025DA4E)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cachel1_armv7.h)(0x60D49FB2)
+I (C:\Users\EDGAR SIERRA\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h)(0x5F19E21C)
